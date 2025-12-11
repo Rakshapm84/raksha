@@ -1,8 +1,5 @@
 public class Datatypes1{
     public static void main(String[] args) {
-        boolean b=true;
-        byte a=12;
-        short s=123;
         int i=12345;
         long l=12345;
         float f=6.345f;
